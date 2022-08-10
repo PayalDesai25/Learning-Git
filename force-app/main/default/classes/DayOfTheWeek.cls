@@ -1,7 +1,8 @@
 public class DayOfTheWeek {
     public Static void dayOfWeek(){
         String dayOfWeek = 'Friday';
-        switch on dayOfWeek{
+        
+            switch on dayOfWeek{
             when 'Friday'{
                 System.debug('Friday Drinks');
                 
