@@ -3,7 +3,7 @@ public class Mission5Task1 {
     //Create method Declare a list called input
     //Loop through each numbers which displays ding if multiple of 3, 
     //displays dong if multiple of 5, displays dingdong if multiple of 3 and 5,
-    //displays 17 if not multiple of 3 or 5
+    //displays 17 if not multiple of 3 or 5...
    	
     public static void inputList(){
         List<Integer> input = new List<Integer>();
